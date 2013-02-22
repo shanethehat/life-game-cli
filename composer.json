@@ -1,0 +1,6 @@
+{
+    "require" : {
+        "shanethehat/life": "dev-master",
+        "symfony/console": "2.1.x"
+    }
+}
